@@ -1,8 +1,11 @@
 # Adam Nguyen
 
-M.S. Computer Science at the University of Maryland — data-centric AI, LLM evaluation, and agentic LLM research.
+I'm doing research at the University of Maryland on **embodied AI** and **agentic LLMs**, with a background in data-centric AI, LLM evaluation, and data selection.
 
 **Links:** [Personal website](https://adamtrnguyen.github.io) · [LinkedIn](https://linkedin.com/in/adamtrnguyen) · [Google Scholar](https://scholar.google.com/citations?user=eJs3GUMAAAAJ) · [X](https://x.com/adamtrnguyen)
+
+## About
+I like capybaras.
 
 ## Selected work
 
